@@ -1,3 +1,4 @@
+
 J'ai supprimé tous les applications dans mon pc et fichiers en le réinitialisant.
 Car j'avais un virus mais qui était bloqué par mon antivirus. Cependant je n'arrivais pas à localiser l'emplacement exact de ce virus.
 Et il ouvrait automatiquement un message d'erreur à chaque démarrage de mon pc.
