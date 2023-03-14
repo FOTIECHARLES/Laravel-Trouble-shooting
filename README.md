@@ -1,3 +1,6 @@
+# Protocol
+
+
 J'ai supprimé tous les applications dans mon pc et fichiers en le réinitialisant.
 Car j'avais un virus mais qui était bloqué par mon antivirus. Cependant je n'arrivais pas à localiser l'emplacement exact de ce virus.
 Et il ouvrait automatiquement un message d'erreur à chaque démarrage de mon pc.
@@ -13,5 +16,7 @@ Wamp: j'ai l'ai installé plusieurs fois sans succès car il fallait d'abord que
 Puis Composer:
 
 En installant composer je devrai installer la dernière versions de php que je choisirai dans l'installation de composer; Pour ne pas avoir de soucis quand je voudrai travailler dans mon vs code avec composer.
+
+## laravel 9
 
 Puis je devrai dans un terminal créer un dossier avec la commande : `composer create-project laravel/laravel foo` ; puis faire `composer update` ensuite je pourrai enfin lancer `php artisan serve` dans ce dossier , et ça fonctionnera dans tous les dossiers crées avec laravel.
